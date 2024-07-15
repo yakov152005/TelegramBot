@@ -1,4 +1,4 @@
-package program;
+package api;
 
 public class User {
     private String firstName;
